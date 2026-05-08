@@ -22,6 +22,7 @@ The derivative of $x^n$ is $nx^{n-1}$. Therefore:
 
 ### Code Snippet
 ```python
+print("function of polynomial fx is: \n 3x^n + 12x - i ")
 # Simple implementation of the Power Rule
 x = float(input('Enter value for x: '))
 n = float(input('Enter exponent n: '))
